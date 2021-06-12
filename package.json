@@ -1,0 +1,25 @@
+{
+  "name": "@dearhive/dearpdf-lite",
+  "version": "1.0.0",
+  "description": "DearPDF Lite Version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dearhive/dearpdf-lite.git"
+  },
+  "keywords": [
+    "pdf",
+    "flipbook",
+    "viewer",
+    "embed"
+  ],
+  "author": "DearHive",
+  "license": "CC BY-NC-ND 4.0",
+  "bugs": {
+    "url": "https://github.com/dearhive/dearpdf-lite/issues"
+  },
+  "homepage": "https://github.com/dearhive/dearpdf-lite#readme"
+}
