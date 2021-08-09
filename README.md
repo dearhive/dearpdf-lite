@@ -1,4 +1,4 @@
 # dearpdf-lite
 DearPDF Lite Version
 
-For DearFlip Flipbook visit https://github.com/dearhive/dearflip-jquery-flipbook
+(jQuery Flipbook)[https://github.com/dearhive/dearflip-jquery-flipbook] is also available from DearFlip
